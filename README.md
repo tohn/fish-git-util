@@ -30,9 +30,7 @@ git_is_stashed | Test if there are changes recorded in the stash
 git_is_tag | Test if a repository's HEAD points to a tag.
 git_is_touched | Test if there are changes in a repository working tree
 git_untracked_files | Get the number of untracked files in a repository
-git_ahead | Get a character that indicates if the current repo is in
-  sync, ahead, behind or has diverged from its upstream.
-  Default: '', '+', '-', '±'
+git_ahead | Get a character that indicates if the current repo is in sync, ahead, behind or has diverged from its upstream. Default: '', '+', '-', '±'
 git_repository_root | Get the root directory of the current repository
 
 ## License
